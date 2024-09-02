@@ -4,22 +4,19 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <p>
         Portfolio Jona Saija
-        </p>
-        <p>
+      </header>
+      <header className="App-header">
         CV
-        </p>
-        <p>
+      </header>
+      <header className="App-header">
         Instagram
-        </p>
-        <p>
+      </header>
+      <header className="App-header">
         LinkedIn
-        </p>
-        <p>
+      </header>
+      <header className="App-header">
         Discord
-        </p>
-
       </header>
     </div>
   );
